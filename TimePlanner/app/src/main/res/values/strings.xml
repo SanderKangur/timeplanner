@@ -1,0 +1,31 @@
+<resources>
+    <string name="confirm">Confirm</string>
+    <string name="areyousure">Are you sure you wish the remove all data?</string>
+    <string name="app_name">TimePlanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="time">Time</string>
+    <string name="empty_ph">No task added yet</string>
+    <string name="title_home">Tasks by day</string>
+    <string name="title_dashboard">All tasks</string>
+    <string name="title_settings">Settings</string>
+    <string name="new_task">Add a task</string>
+    <string name="task_hint">What would you like to do?</string>
+    <string name="task_desc">Describe it</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Task not saved because it is empty.</string>
+    <string name="add_title">Add a title</string>
+    <string name="add_date">Add a date</string>
+    <string name="add_time">Add a time</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="undo">UNDO</string>
+    <string name="removedfromlist">The task was removed from the list.</string>
+    <string name="task">Task</string>
+    <string name="date">Date</string>
+    <string name="remind">Remind me</string>
+    <string name="nightmode">Night Mode</string>
+    <string name="cleardata">Clear data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
+

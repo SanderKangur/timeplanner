@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="task">Plaan</string>
+    <string name="app_name">AjaPlaneerija</string>
+    <string name="title_home">Täna</string>
+    <string name="title_dashboard">Kalender</string>
+    <string name="title_settings">Seaded</string>
+    <string name="new_task">Lisa uus plaan</string>
+    <string name="task_hint">Mis sa sooviksid teha?</string>
+    <string name="task_desc">Kirjelda plaani</string>
+
+    <string name="action_settings">Seaded</string>
+    <string name="button_save">Salvesta</string>
+    <string name="empty_not_saved">Plaan ei salvestatud, kuna see oli tühi.</string>
+    <string name="time">Aeg</string>
+    <string name="empty_ph">Pole veel ühtegi plaani</string>
+
+    <string name="add_title">Lisa pealkiri</string>
+    <string name="add_date">Lisa kuupäev</string>
+    <string name="add_time">Lisa kellaaeg</string>
+    <string name="areyousure">Oled kindel, et tahad andmebaasi tühjendada?</string>
+    <string name="confirm">Kinnita</string>
+    <string name="date">Kuupäev</string>
+    <string name="no">Ei</string>
+    <string name="remind">Tuleta meelde</string>
+    <string name="removedfromlist">Plaan eemaldati nimistust</string>
+    <string name="undo">Võta tagasi</string>
+    <string name="yes">Jah</string>
+    <string name="cleardata">Eemalda andmed</string>
+    <string name="nightmode">Öö režiim</string>
+    <string name="appwidget_text">NÄIDIS</string>
+    <string name="add_widget">Lisa vidin</string>
+</resources>
